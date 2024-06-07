@@ -1,0 +1,31 @@
+.pokemon {
+    text-align: center;
+}
+
+.pokemonDoisBotoes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pokemonDoisBotoes img {
+    width: 150px;
+}
+
+.pokemonDoisBotoes button {
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+.pokemonDoisBotoes button:hover {
+    background-color: rgb(236, 233, 233);
+}
+
+.botoes {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,21 @@
+* { 
+    text-transform: capitalize;
+    font-family: Arial;
+}
+
+.logo img{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+    
+  }
+
+.center {
+    width: 100vw;
+    max-width: 100%;
+    height: 97vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
